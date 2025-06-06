@@ -10,10 +10,6 @@ On this marketplace you can make offers and listings of ERC721 Tokens on the cha
 
 clone this repo
 
-```
-git clone https://github.com/DexKit/open-nft-marketplace.git
-```
-
 Install it:
 
 ```sh
